@@ -2,9 +2,9 @@ module.exports = {
   db: {
     connectionLimit: 10,
     host     : '',
-    user     : '',
-    password : '',
-    database : '',
+    user     : '9thnathan',
+    password : 'CHuipoyau1114',
+    database : 'medium',
     charset: 'utf8mb4'
   },
   batchLimit: 5,
